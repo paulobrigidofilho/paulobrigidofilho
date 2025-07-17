@@ -1,7 +1,7 @@
 # Paulo Brigido Filho
 
 [![GitHub](https://img.shields.io/github/followers/paulobrigidofilho?label=Follow&style=social)](https://github.com/paulobrigidofilho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulo--br%C3%ADgido--filho-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/paulo-br%C3%ADgido-filho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulo--br%C3%ADgido--filho-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/paulo-brigido-filho/)
 
 Highly motivated and results-oriented Full Stack Developer with a diverse background encompassing sales, technical roles, and entrepreneurship. 
 
