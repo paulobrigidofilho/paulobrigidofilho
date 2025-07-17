@@ -29,7 +29,6 @@ Hi! 👋 I'm Paulo Brígido Filho, a passionate software developer and technolog
 
 ## 📈 GitHub Stats
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrigidofilho&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrigidofilho&layout=compact)
 
 ---
