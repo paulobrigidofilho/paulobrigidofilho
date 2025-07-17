@@ -1,9 +1,13 @@
-# Paulo Brígido Filho
+# Paulo Brigido Filho
 
 [![GitHub](https://img.shields.io/github/followers/paulobrigidofilho?label=Follow&style=social)](https://github.com/paulobrigidofilho)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paulo--br%C3%ADgido--filho-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/paulo-br%C3%ADgido-filho/)
 
-Hi! 👋 I'm Paulo Brígido Filho, a passionate software developer and technology enthusiast. I love building full-stack applications, exploring new technologies, and solving real-world problems with code.
+Highly motivated and results-oriented Full Stack Developer with a diverse background encompassing sales, technical roles, and entrepreneurship. 
+
+Beyond the professional sphere, I have a longstanding interest in history—ranging from ancient civilizations to modern developments—as well as in astronomy, space exploration, and the emerging technologies shaping humanity's future beyond Earth.
+
+"Waste no more time arguing what a good man should be. Be one." Marcus Aurelius
 
 ---
 
