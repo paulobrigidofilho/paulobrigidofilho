@@ -60,7 +60,7 @@ Beyond the professional sphere, I have a longstanding interest in history—rang
 ## 📫 How to Reach Me
 
 - [GitHub Issues](https://github.com/paulobrigidofilho)
-- [LinkedIn](https://www.linkedin.com/in/paulo-br%C3%ADgido-filho/)
+- [LinkedIn](https://www.linkedin.com/in/paulo-brigido-filho-7a7a09109/)
 - Email: paulobrigidofilho@gmail.com
 
 ---
