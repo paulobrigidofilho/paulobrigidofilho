@@ -39,21 +39,9 @@ Beyond the professional sphere, I have a longstanding interest in history—rang
 
 ## 📂 Featured Projects
 
-- [**Orbis History Maps**](https://github.com/paulobrigidofilho/orbis)  
-  Interactive maps for historical storytelling.  
+- [**Orbis History Maps**]
+  Interactive maps for historical storytelling. (Private Repository) 
   _React, Node.js, MySQL, Express_
-
-- [**CLI Productivity Tool**](https://github.com/paulobrigidofilho/cli-productivity-tool)  
-  A command-line interface tool to boost productivity and automate daily developer tasks.  
-  _Node.js, Shell, npm_
-
-- [**Mock Interviewer**](https://github.com/paulobrigidofilho/mock-interviewer)  
-  An AI-powered mock interview platform to help users practice and prepare for technical interviews.  
-  _React, Node.js, OpenAI API_
-
-- [**TradeMe Redesign**](https://github.com/paulobrigidofilho/trademe-redesign)  
-  Marketplace clone with advanced search and bidding features.  
-  _React, Node.js, MongoDB_
 
 ---
 
