@@ -31,12 +31,6 @@ Beyond the professional sphere, I have a longstanding interest in history—rang
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrigidofilho&layout=compact)
-
----
-
 ## 📂 Featured Projects
 
 - [**Orbis History Maps**]
