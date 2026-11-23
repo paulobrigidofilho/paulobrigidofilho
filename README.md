@@ -34,8 +34,6 @@
 
 I build software for businesses that have to run it themselves: a shop, a dashboard, or a tool the staff can use without calling a developer. History and drawing are old interests of mine, and they are why [Orbis Relics](https://www.orbisrelics.co.nz) exists — historical maps, for sale, with [Mira Core](https://www.orbisrelics.co.nz) as the operator dashboard on the same app. React, Node.js, MySQL, and Docker, covered by a large test suite in GitHub Actions.
 
-Technical sales still shows in the work. Screens stay plain, checkout has to hold, and the result has to be something a business can use.
-
 > Waste no more time arguing what a good man should be. Be one. — Marcus Aurelius
 
 ## Projects
