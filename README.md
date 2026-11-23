@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.orbisrelics.co.nz"><img src="assets/orbis.png" alt="Orbis Relics" height="56" /></a>
+  <a href="https://www.orbisrelics.co.nz"><img src="assets/orbis.png" alt="Orbis Relics" height="72" /></a>
   &nbsp;&nbsp;
   <a href="https://www.orbisrelics.co.nz"><img src="assets/mira.png" alt="Mira Core" height="56" /></a>
   &nbsp;&nbsp;
-  <a href="https://racketup.co.nz"><img src="assets/racketup.png" alt="Racket Up" height="56" /></a>
+  <a href="https://racketup.co.nz"><img src="assets/racketup.png" alt="Racket Up" height="72" /></a>
 </p>
 
 <p align="center">
@@ -32,23 +32,25 @@
 
 ---
 
-I design, build, and ship production web applications end to end: React storefronts, Node.js APIs, MySQL, and Docker on Ubuntu. The work I am proudest of is live — [Orbis Relics](https://www.orbisrelics.co.nz) and [Mira Core](https://www.orbisrelics.co.nz), one product with a customer storefront and the operator dashboard that runs it — backed by a large automated test suite and GitHub Actions CI.
+I build software for businesses that have to run it themselves: a shop, a dashboard, or a tool the staff can use without calling a developer. History and drawing are old interests of mine, and they are why [Orbis Relics](https://www.orbisrelics.co.nz) exists — historical maps, for sale, with [Mira Core](https://www.orbisrelics.co.nz) as the operator dashboard on the same app. React, Node.js, MySQL, and Docker, covered by a large test suite in GitHub Actions.
 
-Before software I worked in technical sales. That still shapes how I build: clear operator tools, reliable checkout, and software that has to hold up against a real commercial outcome.
+Technical sales still shows in the work. Screens stay plain, checkout has to hold, and the result has to be something a business can use.
 
 > Waste no more time arguing what a good man should be. Be one. — Marcus Aurelius
 
-## Selected work
+## Project
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://www.orbisrelics.co.nz">Orbis Relics · Mira Core</a></h3>
-      <p>
-        <a href="https://www.orbisrelics.co.nz"><img src="assets/orbis.png" alt="Orbis Relics" height="36" /></a>
+      <h3>
+        <a href="https://www.orbisrelics.co.nz"><img src="assets/orbis.png" alt="Orbis Relics" height="48" /></a>
         &nbsp;
-        <a href="https://www.orbisrelics.co.nz"><img src="assets/mira.png" alt="Mira Core" height="36" /></a>
-      </p>
+        <a href="https://www.orbisrelics.co.nz"><img src="assets/mira.png" alt="Mira Core" height="32" /></a>
+        &nbsp;
+        Orbis Relics · Mira Core
+      </h3>
+      <p>Nov 2025 – present · Tauranga</p>
       <p>One product, two surfaces. <strong>Orbis Relics</strong> is the customer storefront: historical maps, merch, and checkout. <strong>Mira Core</strong> is the operator dashboard on the same React app, the same Express API, and the same MySQL database — 11 admin modules, isolated from the storefront theme. Maps and stories also live on <a href="https://www.instagram.com/orbisrelics">Instagram</a>.</p>
       <p>Founder and full-stack developer. React 18, Vite, Node.js, Express, Sequelize, Stripe, Google and Facebook OAuth, NZ GST, GoSweetSpot, DHL Express, Docker, and Nginx.</p>
       <p>9,000+ automated tests (Jest, Supertest, Vitest, React Testing Library) in GitHub Actions. Frontend entry bundle kept under 300 kB gzipped. Operator ledger, stock-runway analytics, and branded PDF reports. 280+ Jira tickets across 9 sprints.</p>
@@ -59,13 +61,14 @@ Before software I worked in technical sales. That still shapes how I build: clea
       <p><em>Production repository is private. Happy to walk through the architecture.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://racketup.co.nz">Racket Up</a></h3>
-      <p>
-        <a href="https://racketup.co.nz"><img src="assets/racketup.png" alt="Racket Up" height="36" /></a>
-      </p>
-      <p>Player evaluation and academy management for <a href="https://racketup.co.nz">Racket Up Badminton Academy</a>. Player and coach portals, skill-progression charts, and role-based access.</p>
-      <p>Internship, full-stack. React, Node.js, Express, MySQL, Sequelize, Auth0, JWT, Recharts, and Docker. Lighthouse 91 Performance and 100 Best Practices. 200+ Jira tasks across 5 sprints.</p>
-      <p><sub>Jul 2025 – Oct 2025 · Remote</sub></p>
+      <h3>
+        <a href="https://racketup.co.nz"><img src="assets/racketup.png" alt="Racket Up" height="48" /></a>
+        &nbsp;
+        Racket Up
+      </h3>
+      <p>Jul 2025 – Oct 2025 · Remote</p>
+      <p>A full academy platform for <a href="https://racketup.co.nz">Racket Up Badminton Academy</a>, shaped around coaches who are not technical. The public site, player portal, and admin portal follow how the team already evaluates players: levels, skills, and scores they can read without a spreadsheet. Auth0 separates player and coach access. Charts show progress in the language of a coaching session.</p>
+      <p>React, Node.js, Express, MySQL, Sequelize, Auth0, and Docker. Handed over with guides written for the academy, plus admin accounts ready for the coaching team. Lighthouse 91 Performance and 100 Best Practices. 200+ Jira tasks across 5 sprints.</p>
     </td>
   </tr>
 </table>
@@ -84,15 +87,12 @@ Before software I worked in technical sales. That still shapes how I build: clea
 ## Experience
 
 **Founder and Full-Stack Developer — Orbis Relics and Mira Core**  
-Tauranga · Nov 2025 – present  
 Live storefront and operator dashboard. Payments, freight, tax, auth, analytics, CI, and production hosting. [orbisrelics.co.nz](https://www.orbisrelics.co.nz) · [Instagram](https://www.instagram.com/orbisrelics)
 
 **Full-Stack Developer (Internship) — Racket Up Badminton Academy**  
-Remote · Jul 2025 – Oct 2025  
 Academy platform shipped to [racketup.co.nz](https://racketup.co.nz).
 
 **Technical Sales Assessor — EnergySmart**  
-Bay of Plenty · Apr 2024 – present  
 On-site technical assessments and quotes. Top 3 national ranking.
 
 ## Education
