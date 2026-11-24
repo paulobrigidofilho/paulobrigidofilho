@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.orbisrelics.co.nz"><img src="assets/orbis.png" alt="Orbis Relics" height="72" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.orbisrelics.co.nz"><img src="assets/mira.png" alt="Mira Core" height="56" /></a>
+  <a href="https://www.orbisrelics.co.nz"><img src="assets/mira.png" alt="Mira Core" height="72" /></a>
   &nbsp;&nbsp;
   <a href="https://racketup.co.nz"><img src="assets/racketup.png" alt="Racket Up" height="72" /></a>
 </p>
@@ -32,7 +32,9 @@
 
 ---
 
-I build software for businesses that have to run it themselves: a shop, a dashboard, or a tool the staff can use without calling a developer. History and drawing are old interests of mine, and they are why [Orbis Relics](https://www.orbisrelics.co.nz) exists — historical maps, for sale, with [Mira Core](https://www.orbisrelics.co.nz) as the operator dashboard on the same app. React, Node.js, MySQL, and Docker, covered by a large test suite in GitHub Actions.
+I build simple, easy-to-use software for businesses, and I care about getting both the front end and the back end right. I like making tools a business can run on its own, such as a shop, a dashboard, or a screen staff can use without calling a developer.
+
+History and drawing have been interests of mine for a long time, and they led me to start Orbis Relics, a historical map shop, and Mira Core, the dashboard that runs it. I'm also genuinely excited about AI and where technology is heading, and I'm always learning.
 
 > Waste no more time arguing what a good man should be. Be one. — Marcus Aurelius
 
@@ -44,27 +46,31 @@ I build software for businesses that have to run it themselves: a shop, a dashbo
       <p>
         <a href="https://www.orbisrelics.co.nz"><img src="assets/orbis.png" alt="Orbis Relics" height="56" /></a>
         &nbsp;
-        <a href="https://www.orbisrelics.co.nz"><img src="assets/mira.png" alt="Mira Core" height="36" /></a>
+        <a href="https://www.orbisrelics.co.nz"><img src="assets/mira.png" alt="Mira Core" height="56" /></a>
       </p>
-      <p><strong>Orbis Relics · Mira Core</strong></p>
-      <p><em><sub>Nov 2025 – present · Tauranga</sub></em></p>
-      <p>Customer storefront and operator dashboard in one product. <strong>Orbis Relics</strong> sells historical maps and merch. <strong>Mira Core</strong> runs the shop: 11 admin modules on the same React app, Express API, and MySQL database. Stories also live on <a href="https://www.instagram.com/orbisrelics">Instagram</a>.</p>
-      <p>React 18, Vite, Node.js, Express, Sequelize, Stripe, Google and Facebook OAuth, NZ GST, GoSweetSpot, DHL Express, Docker, and Nginx.</p>
-      <p>9,000+ automated tests in GitHub Actions. Entry bundle under 300 kB gzipped. Operator ledger, stock analytics, and branded PDF reports. 280+ Jira tickets across 9 sprints.</p>
       <p>
-        <a href="https://www.orbisrelics.co.nz">www.orbisrelics.co.nz</a> ·
+        <strong>Orbis Relics · Mira Core</strong><br>
+        <em><sub>Nov 2025 – present · Tauranga</sub></em>
+      </p>
+      <p>Online shop for historical maps and merch, with its own operator dashboard. Customers browse and pay on the storefront. Mira Core lets the business handle orders, stock, content, and reports from 11 admin sections, in the same app.</p>
+      <p>React 18, Node.js, Express, MySQL, Stripe, Google and Facebook sign-in, NZ GST, GoSweetSpot, DHL Express, Docker, and Nginx.</p>
+      <p>9,000+ automated tests in GitHub Actions. Fast first load, under 300 kB. 280+ Jira tickets across 9 sprints.</p>
+      <p>
+        <a href="https://www.orbisrelics.co.nz">orbisrelics.co.nz</a> ·
         <a href="https://www.instagram.com/orbisrelics">instagram.com/orbisrelics</a>
       </p>
-      <p><em><sub>Production repository is private.</sub></em></p>
+      <p><em><sub>Private repository.</sub></em></p>
     </td>
     <td width="50%" valign="top">
       <p>
         <a href="https://racketup.co.nz"><img src="assets/racketup.png" alt="Racket Up" height="56" /></a>
       </p>
-      <p><strong>Racket Up</strong></p>
-      <p><em><sub>Jul 2025 – Oct 2025 · Remote</sub></em></p>
-      <p>Academy platform for <a href="https://racketup.co.nz">Racket Up Badminton Academy</a>, written for coaches who are not technical. Public site, player portal, and admin portal follow how the team already evaluates players: levels, skills, and scores they can read without a spreadsheet.</p>
-      <p>React, Node.js, Express, MySQL, Sequelize, Auth0, Recharts, and Docker. Charts show progress in the language of a coaching session. Guides and admin accounts were handed to the academy.</p>
+      <p>
+        <strong>Racket Up</strong><br>
+        <em><sub>Jul 2025 – Oct 2025 · Remote</sub></em>
+      </p>
+      <p>The academy already had its own way of assessing players by level and skill. I turned that method into an app anyone could use: coaches score players after a session, and parents and children follow progress on simple charts.</p>
+      <p>React, Node.js, Express, MySQL, Auth0, Recharts, and Docker. Built with the owner, who isn't technical, and handed over with plain-language guides.</p>
       <p>Lighthouse 91 Performance and 100 Best Practices. 200+ Jira tasks across 5 sprints.</p>
       <p>
         <a href="https://racketup.co.nz">racketup.co.nz</a> ·
@@ -75,36 +81,50 @@ I build software for businesses that have to run it themselves: a shop, a dashbo
   </tr>
 </table>
 
-## Stack
+## Skills
 
 | | |
 | --- | --- |
-| **Frontend** | React 18, JavaScript (ES6+), Vite, React Router, Axios, Recharts, Mantine UI, HTML5, CSS3 |
-| **Backend** | Node.js, Express, REST, Sequelize, Joi, Stripe, Nodemailer, PDFKit |
-| **Data** | MySQL 8, MongoDB |
-| **Auth** | Auth0, JWT, Passport (Google and Facebook), bcrypt, Express sessions |
-| **Delivery** | Docker, Nginx, GitHub Actions, Ubuntu Server, Azure, Jest, Supertest, Vitest, React Testing Library |
-| **Practice** | Git, Jira, Agile, MVC, domain-driven modules |
+| **Frontend** | React 18, JavaScript (ES6+), HTML5, CSS3, Vite, React Router, Axios, Recharts, Mantine UI, Framer Motion, Zod |
+| **Backend** | Node.js, Express, REST APIs, Sequelize, Stripe, Joi, Nodemailer, PDFKit |
+| **Databases** | MySQL 8, MongoDB |
+| **Auth and security** | Auth0, JWT, Passport.js (Google and Facebook OAuth), bcrypt, Express sessions, rate limiting |
+| **Testing and DevOps** | Jest, Supertest, Vitest, React Testing Library, Docker, Nginx, GitHub Actions (CI/CD), Ubuntu Server, Microsoft Azure |
+| **AI** | Generative AI APIs (Google Gemini, OpenAI) |
+| **Tools and practice** | Git, Jira, Agile/Scrum, MVC architecture, Postman, Cloudflare Tunnel |
 
 ## Experience
 
-**Founder and Full-Stack Developer — Orbis Relics and Mira Core**  
-Live storefront and operator dashboard. Payments, freight, tax, auth, analytics, CI, and production hosting. [orbisrelics.co.nz](https://www.orbisrelics.co.nz) · [Instagram](https://www.instagram.com/orbisrelics)
+**Founder and Full-Stack Developer**  
+Orbis Relics · Tauranga, New Zealand · Nov 2025 – Present
 
-**Full-Stack Developer (Internship) — Racket Up Badminton Academy**  
-Academy platform shipped to [racketup.co.nz](https://racketup.co.nz).
+- Built and deployed an online store and an 11-section operator dashboard (Mira Core) with React 18, Vite, Node.js, Express, and MySQL 8 (Sequelize).
+- Integrated Stripe payments and webhooks, NZ courier quotes (GoSweetSpot), international shipping (DHL Express), NZ GST, and Google and Facebook sign-in.
+- Wrote 9,000+ automated tests (Jest, Supertest, Vitest, React Testing Library) running in GitHub Actions, and kept the first-load bundle under 300 kB.
+- Built a financial ledger, stock analytics, and PDF reports; deployed with Docker and Nginx on Ubuntu; delivered 280+ Jira tickets across 9 sprints.
 
-**Technical Sales Assessor — EnergySmart**  
-On-site technical assessments and quotes. Top 3 national ranking.
+**Full-Stack Developer (Internship)**  
+Racket Up Badminton Academy · Remote · Jul 2025 – Oct 2025
+
+- Built a player evaluation and academy management app with React, Node.js, Express, and MySQL (Sequelize), using an MVC structure.
+- Added Auth0 sign-in with role-based access for coaches, players, and admins, and progress dashboards with Recharts.
+- Deployed with Docker to racketup.co.nz (Lighthouse 91 Performance, 100 Best Practices) and delivered 200+ Jira tasks across 5 sprints.
+- Worked directly with the academy owner to turn the coaching method into the app, and wrote guides for non-technical staff.
+
+**Technical Sales Assessor**  
+EnergySmart · Bay of Plenty, New Zealand · Apr 2024 – Present
+
+- Exceed monthly sales targets by 10–20%, with a Top 3 national ranking and about 10,000 m² of insulation sold per month.
+- Carry out on-site roof and underfloor assessments and turn measurements into accurate calculations and quotes.
 
 ## Education
 
-- **Digital Technology Product Solutions** (NZQA Level 5–6) — Mission Ready HQ, 2025
-- **Full Stack Development** (NZQA Level 4) — Mission Ready HQ, 2024
-- **MBA, Logistics and Supply Chain Management** (NZQA Level 8) — Fundação Getulio Vargas, 2017
-- **Bachelor of International Relations** — Ibmec, Rio de Janeiro, 2014
+- **Digital Technology Product Solutions** (NZQA Level 5–6) — Mission Ready HQ, Auckland · Apr 2025
+- **Full Stack Development** (NZQA Level 4) — Mission Ready HQ, Auckland · Dec 2024
+- **MBA, Logistics and Supply Chain Management** (NZQA Level 8) — Fundação Getulio Vargas, Brazil · Apr 2017
+- **Bachelor of International Relations** (NZQA Level 6) — Ibmec, Rio de Janeiro · Jul 2014
 
-English · Portuguese · Spanish
+**Languages:** English, Portuguese, Spanish
 
 ## Contact
 
