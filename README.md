@@ -151,9 +151,9 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 <br>
 
 <table width="100%">
-  <tr></tr>
+  <tr><td><img src="assets/dates/stretch.png" width="2000" height="0" alt="" /></td></tr>
   <tr>
-    <td valign="top"><img align="right" src="assets/dates/energysmart.svg" alt="Apr 2024 – Present" width="104" height="14" /><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand<img src="assets/dates/stretch.png" width="900" height="1" alt="" /></td>
+    <td valign="top"><img align="right" src="assets/dates/energysmart.svg" alt="Apr 2024 – Present" width="104" height="14" /><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand</td>
   </tr>
   <tr>
     <td>
