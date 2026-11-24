@@ -59,7 +59,6 @@ Outside of coding, my lifelong interests in history and illustration led me to l
         <a href="https://www.orbisrelics.co.nz">orbisrelics.co.nz</a> ·
         <a href="https://www.instagram.com/orbisrelics">instagram.com/orbisrelics</a>
       </p>
-      <p><em><sub>Private repository.</sub></em></p>
     </td>
     <td width="50%" valign="top">
       <p>
@@ -76,7 +75,6 @@ Outside of coding, my lifelong interests in history and illustration led me to l
         <a href="https://racketup.co.nz">racketup.co.nz</a> ·
         <a href="https://github.com/Mission-Ready/racket-up-app">github.com/Mission-Ready/racket-up-app</a>
       </p>
-      <p><em><sub>Public repository.</sub></em></p>
     </td>
   </tr>
 </table>
