@@ -117,7 +117,7 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 <table width="100%">
   <tr></tr>
   <tr>
-    <td valign="top"><strong>Founder and Full-Stack Developer</strong><br><img align="right" src="assets/dates/orbis.svg" alt="Nov 2025 – Present" width="118" height="16" /><strong>Orbis Relics</strong> · Tauranga, New Zealand</td>
+    <td valign="top"><img align="right" src="assets/dates/orbis.svg" alt="Nov 2025 – Present" width="136" height="18" /><strong>Founder and Full-Stack Developer</strong><br><strong>Orbis Relics</strong> · Tauranga, New Zealand</td>
   </tr>
   <tr>
     <td>
@@ -135,7 +135,7 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 <table width="100%">
   <tr></tr>
   <tr>
-    <td valign="top"><strong>Full-Stack Developer (Internship)</strong><br><img align="right" src="assets/dates/racketup.svg" alt="Jul 2025 – Oct 2025" width="126" height="16" /><strong>Racket Up Badminton Academy</strong> · Remote</td>
+    <td valign="top"><img align="right" src="assets/dates/racketup.svg" alt="Jul 2025 – Oct 2025" width="144" height="18" /><strong>Full-Stack Developer (Internship)</strong><br><strong>Racket Up Badminton Academy</strong> · Remote</td>
   </tr>
   <tr>
     <td>
@@ -153,7 +153,7 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 <table width="100%">
   <tr></tr>
   <tr>
-    <td valign="top"><strong>Technical Sales Assessor</strong><br><img align="right" src="assets/dates/energysmart.svg" alt="Apr 2024 – Present" width="118" height="16" /><strong>EnergySmart</strong> · Bay of Plenty, New Zealand</td>
+    <td valign="top"><img align="right" src="assets/dates/energysmart.svg" alt="Apr 2024 – Present" width="136" height="18" /><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand</td>
   </tr>
   <tr>
     <td>
