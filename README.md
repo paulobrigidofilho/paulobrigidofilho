@@ -32,9 +32,9 @@
 
 ---
 
-I build simple, easy-to-use software for businesses, and I care about getting both the front end and the back end right. I like making tools a business can run on its own, such as a shop, a dashboard, or a screen staff can use without calling a developer.
+I specialize in end-to-end product engineering with React, Node.js, and SQL, connecting intuitive frontend design with reliable backend systems. I focus on building self-service business software, such as custom e-commerce platforms and CMS-driven admin dashboards, that helps staff run operations smoothly without ongoing code changes.
 
-History and drawing have been interests of mine for a long time, and they led me to start Orbis Relics, a historical map shop, and Mira Core, the dashboard that runs it. I'm also genuinely excited about AI and where technology is heading, and I'm always learning.
+Outside of coding, my lifelong interests in history and illustration led me to launch Orbis Relics, an online store for custom historical maps, and architect Mira Core, the admin platform that powers its daily operations. I’m equally energized by the rapid evolution of AI and modern web tools, and I treat every project as an opportunity to learn and build better software.
 
 > Waste no more time arguing what a good man should be. Be one. — Marcus Aurelius
 
