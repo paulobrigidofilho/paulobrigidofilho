@@ -117,11 +117,10 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 <table width="100%">
   <tr></tr>
   <tr>
-    <td valign="top"><strong>Founder and Full-Stack Developer</strong><br><strong>Orbis Relics</strong> · Tauranga, New Zealand</td>
-    <td align="right" valign="top"><strong>Nov 2025 – Present</strong></td>
+    <td valign="top"><img align="right" src="assets/dates/orbis.svg" alt="Nov 2025 – Present" height="20" /><strong>Founder and Full-Stack Developer</strong><br><strong>Orbis Relics</strong> · Tauranga, New Zealand</td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <ul>
         <li>Built and deployed an online store and an 11-section operator dashboard (Mira Core) with React 18, Vite, Node.js, Express, and MySQL 8 (Sequelize).</li>
         <li>Integrated Stripe payments and webhooks, NZ courier quotes (GoSweetSpot), international shipping (DHL Express), NZ GST, and Google and Facebook sign-in.</li>
@@ -136,11 +135,10 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 <table width="100%">
   <tr></tr>
   <tr>
-    <td valign="top"><strong>Full-Stack Developer (Internship)</strong><br><strong>Racket Up Badminton Academy</strong> · Remote</td>
-    <td align="right" valign="top"><strong>Jul 2025 – Oct 2025</strong></td>
+    <td valign="top"><img align="right" src="assets/dates/racketup.svg" alt="Jul 2025 – Oct 2025" height="20" /><strong>Full-Stack Developer (Internship)</strong><br><strong>Racket Up Badminton Academy</strong> · Remote</td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <ul>
         <li>Built a player evaluation and academy management app with React, Node.js, Express, and MySQL (Sequelize), using an MVC structure.</li>
         <li>Added Auth0 sign-in with role-based access for coaches, players, and admins, and progress dashboards with Recharts.</li>
@@ -155,11 +153,10 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 <table width="100%">
   <tr></tr>
   <tr>
-    <td valign="top"><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand</td>
-    <td align="right" valign="top"><strong>Apr 2024 – Present</strong></td>
+    <td valign="top"><img align="right" src="assets/dates/energysmart.svg" alt="Apr 2024 – Present" height="20" /><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand</td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <ul>
         <li>Exceed monthly sales targets by 10–20%, with a Top 3 national ranking and about 10,000 m² of insulation sold per month.</li>
         <li>Carry out on-site roof and underfloor assessments and turn measurements into accurate calculations and quotes.</li>
