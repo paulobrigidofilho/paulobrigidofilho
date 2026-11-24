@@ -53,7 +53,7 @@ Outside of coding, my lifelong interests in history and illustration led me to l
         <em><sub>Nov 2025 – present · Tauranga</sub></em>
       </p>
       <p>Online shop for historical maps and merch, with its own operator dashboard. Customers browse and pay on the storefront. Mira Core lets the business handle orders, stock, content, and reports from 11 admin sections, in the same app.</p>
-      <p>React 18, Node.js, Express, MySQL, Stripe, Google and Facebook sign-in, NZ GST, GoSweetSpot, DHL Express, Docker, and Nginx.</p>
+      <p>React 18, Node.js, Express, MySQL, Stripe, Google and Facebook sign-in, NZ GST, GoSweetSpot, DHL Express, Docker, and Nginx. Includes a ledger, stock analytics, and PDF reports.</p>
       <p>9,000+ automated tests in GitHub Actions. Fast first load, under 300 kB. 280+ Jira tickets across 9 sprints.</p>
       <p>
         <a href="https://www.orbisrelics.co.nz">orbisrelics.co.nz</a> ·
@@ -93,27 +93,56 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 
 ## Experience
 
-**Founder and Full-Stack Developer**  
-Orbis Relics · Tauranga, New Zealand · Nov 2025 – Present
+<table width="100%">
+  <tr>
+    <td valign="top"><strong>Founder and Full-Stack Developer</strong><br><strong>Orbis Relics</strong> · Tauranga, New Zealand</td>
+    <td align="right" valign="top"><em>Nov 2025 – Present</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>Built and deployed an online store and an 11-section operator dashboard (Mira Core) with React 18, Vite, Node.js, Express, and MySQL 8 (Sequelize).</li>
+        <li>Integrated Stripe payments and webhooks, NZ courier quotes (GoSweetSpot), international shipping (DHL Express), NZ GST, and Google and Facebook sign-in.</li>
+        <li>Wrote 9,000+ automated tests (Jest, Supertest, Vitest, React Testing Library) running in GitHub Actions, and kept the first-load bundle under 300 kB.</li>
+        <li>Built a financial ledger, stock analytics, and PDF reports; deployed with Docker and Nginx on Ubuntu; delivered 280+ Jira tickets across 9 sprints.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br>
 
-- Built and deployed an online store and an 11-section operator dashboard (Mira Core) with React 18, Vite, Node.js, Express, and MySQL 8 (Sequelize).
-- Integrated Stripe payments and webhooks, NZ courier quotes (GoSweetSpot), international shipping (DHL Express), NZ GST, and Google and Facebook sign-in.
-- Wrote 9,000+ automated tests (Jest, Supertest, Vitest, React Testing Library) running in GitHub Actions, and kept the first-load bundle under 300 kB.
-- Built a financial ledger, stock analytics, and PDF reports; deployed with Docker and Nginx on Ubuntu; delivered 280+ Jira tickets across 9 sprints.
+<table width="100%">
+  <tr>
+    <td valign="top"><strong>Full-Stack Developer (Internship)</strong><br><strong>Racket Up Badminton Academy</strong> · Remote</td>
+    <td align="right" valign="top"><em>Jul 2025 – Oct 2025</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>Built a player evaluation and academy management app with React, Node.js, Express, and MySQL (Sequelize), using an MVC structure.</li>
+        <li>Added Auth0 sign-in with role-based access for coaches, players, and admins, and progress dashboards with Recharts.</li>
+        <li>Deployed with Docker to racketup.co.nz (Lighthouse 91 Performance, 100 Best Practices) and delivered 200+ Jira tasks across 5 sprints.</li>
+        <li>Worked directly with the academy owner to turn the coaching method into the app, and wrote guides for non-technical staff.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br>
 
-**Full-Stack Developer (Internship)**  
-Racket Up Badminton Academy · Remote · Jul 2025 – Oct 2025
-
-- Built a player evaluation and academy management app with React, Node.js, Express, and MySQL (Sequelize), using an MVC structure.
-- Added Auth0 sign-in with role-based access for coaches, players, and admins, and progress dashboards with Recharts.
-- Deployed with Docker to racketup.co.nz (Lighthouse 91 Performance, 100 Best Practices) and delivered 200+ Jira tasks across 5 sprints.
-- Worked directly with the academy owner to turn the coaching method into the app, and wrote guides for non-technical staff.
-
-**Technical Sales Assessor**  
-EnergySmart · Bay of Plenty, New Zealand · Apr 2024 – Present
-
-- Exceed monthly sales targets by 10–20%, with a Top 3 national ranking and about 10,000 m² of insulation sold per month.
-- Carry out on-site roof and underfloor assessments and turn measurements into accurate calculations and quotes.
+<table width="100%">
+  <tr>
+    <td valign="top"><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand</td>
+    <td align="right" valign="top"><em>Apr 2024 – Present</em></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>Exceed monthly sales targets by 10–20%, with a Top 3 national ranking and about 10,000 m² of insulation sold per month.</li>
+        <li>Carry out on-site roof and underfloor assessments and turn measurements into accurate calculations and quotes.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Education
 
