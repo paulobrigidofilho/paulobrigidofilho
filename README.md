@@ -115,17 +115,12 @@ Outside of coding, my lifelong interests in history and illustration led me to l
 ## Experience
 
 <table width="100%">
-  <tr>
-    <td width="100%">
-
-<table width="100%">
-  <colgroup><col width="100%" /></colgroup>
   <tr></tr>
   <tr>
-    <td width="100%" valign="top"><img align="right" src="assets/dates/orbis.svg" alt="Nov 2025 – Present" width="104" height="14" /><strong>Founder and Full-Stack Developer</strong><br><strong>Orbis Relics</strong> · Tauranga, New Zealand</td>
+    <td valign="top"><img align="right" src="assets/dates/orbis.svg" alt="Nov 2025 – Present" width="104" height="14" /><strong>Founder and Full-Stack Developer</strong><br><strong>Orbis Relics</strong> · Tauranga, New Zealand</td>
   </tr>
   <tr>
-    <td width="100%">
+    <td>
       <ul>
         <li>Built and deployed an online store and an 11-section operator dashboard (Mira Core) with React 18, Vite, Node.js, Express, and MySQL 8 (Sequelize).</li>
         <li>Integrated Stripe payments and webhooks, NZ courier quotes (GoSweetSpot), international shipping (DHL Express), NZ GST, and Google and Facebook sign-in.</li>
@@ -135,17 +130,15 @@ Outside of coding, my lifelong interests in history and illustration led me to l
     </td>
   </tr>
 </table>
-
 <br>
 
 <table width="100%">
-  <colgroup><col width="100%" /></colgroup>
   <tr></tr>
   <tr>
-    <td width="100%" valign="top"><img align="right" src="assets/dates/racketup.svg" alt="Jul 2025 – Oct 2025" width="110" height="14" /><strong>Full-Stack Developer (Internship)</strong><br><strong>Racket Up Badminton Academy</strong> · Remote</td>
+    <td valign="top"><img align="right" src="assets/dates/racketup.svg" alt="Jul 2025 – Oct 2025" width="110" height="14" /><strong>Full-Stack Developer (Internship)</strong><br><strong>Racket Up Badminton Academy</strong> · Remote</td>
   </tr>
   <tr>
-    <td width="100%">
+    <td>
       <ul>
         <li>Built a player evaluation and academy management app with React, Node.js, Express, and MySQL (Sequelize), using an MVC structure.</li>
         <li>Added Auth0 sign-in with role-based access for coaches, players, and admins, and progress dashboards with Recharts.</li>
@@ -155,25 +148,19 @@ Outside of coding, my lifelong interests in history and illustration led me to l
     </td>
   </tr>
 </table>
-
 <br>
 
 <table width="100%">
-  <colgroup><col width="100%" /></colgroup>
   <tr></tr>
   <tr>
-    <td width="100%" valign="top"><img align="right" src="assets/dates/energysmart.svg" alt="Apr 2024 – Present" width="104" height="14" /><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand</td>
+    <td valign="top"><img align="right" src="assets/dates/energysmart.svg" alt="Apr 2024 – Present" width="104" height="14" /><strong>Technical Sales Assessor</strong><br><strong>EnergySmart</strong> · Bay of Plenty, New Zealand<img src="assets/dates/stretch.png" width="900" height="1" alt="" /></td>
   </tr>
   <tr>
-    <td width="100%">
+    <td>
       <ul>
         <li>Exceed monthly sales targets by 10–20%, with a Top 3 national ranking and about 10,000 m² of insulation sold per month.</li>
         <li>Carry out on-site roof and underfloor assessments and turn measurements into accurate calculations and quotes.</li>
       </ul>
-    </td>
-  </tr>
-</table>
-
     </td>
   </tr>
 </table>
