@@ -53,9 +53,9 @@ Outside of coding, my lifelong interests in history and illustration led me to l
         <strong>Orbis Relics · Mira Core</strong><br>
         <em><sub>Nov 2025 – present · Tauranga</sub></em>
       </p>
-      <p>Online shop for historical maps and merch, with its own operator dashboard. Customers browse and pay on the storefront. Mira Core lets the business handle orders, stock, content, and reports from 11 admin sections, in the same app.</p>
-      <p>React 18, Node.js, Express, MySQL, Stripe, Google and Facebook sign-in, NZ GST, GoSweetSpot, DHL Express, Docker, and Nginx. Includes a ledger, stock analytics, and PDF reports.</p>
-      <p>9,000+ automated tests in GitHub Actions. Fast first load, under 300 kB. 280+ Jira tickets across 9 sprints.</p>
+      <p>Online shop for historical maps and merch. Customers browse, sign in, and pay on the storefront. Mira Core is the dashboard in the same app, so the shop can be run without a separate tool.</p>
+      <p>Orders handles fulfilment, refunds, labels, and certificates. Products handles the catalog, stock, and authenticity certificates. Financial handles profit and loss and PDF reports. Analytics, Marketing, the CMS, and Settings cover sales, content, freight, and payments.</p>
+      <p>React 18, Vite, Node.js, Express, Sequelize, MySQL, Stripe, Google and Facebook sign-in, NZ GST, GoSweetSpot, DHL Express, Nodemailer, Docker, and Nginx. 9,000+ tests in GitHub Actions. First load under 300 kB. 280+ Jira tickets across 9 sprints.</p>
       <p>
         <a href="https://www.orbisrelics.co.nz">orbisrelics.co.nz</a> ·
         <a href="https://www.instagram.com/orbisrelics">instagram.com/orbisrelics</a>
@@ -69,9 +69,9 @@ Outside of coding, my lifelong interests in history and illustration led me to l
         <strong>Racket Up</strong><br>
         <em><sub>Jul 2025 – Oct 2025 · Remote</sub></em>
       </p>
-      <p>The academy already had its own way of assessing players by level and skill. I turned that method into an app anyone could use: coaches score players after a session, and parents and children follow progress on simple charts.</p>
-      <p>React, Node.js, Express, MySQL, Auth0, Recharts, and Docker. Built with the owner, who isn't technical, and handed over with plain-language guides.</p>
-      <p>Lighthouse 91 Performance and 100 Best Practices. 200+ Jira tasks across 5 sprints.</p>
+      <p>Built with another developer for Racket Up Badminton Academy. I led the backend and the Auth0 integration, and I also worked on the frontend. The academy already assessed players by level and skill.</p>
+      <p>We turned that method into an app coaches can use without a spreadsheet. They score players after a session, and parents and children follow progress on charts that use the same levels and skills. Player, coach, and admin portals use Auth0 roles.</p>
+      <p>React, Node.js, Express, MySQL, Sequelize, Auth0, Recharts, and Docker. Handed over with plain-language guides for staff who are not technical. Lighthouse 91 Performance and 100 Best Practices. 200+ Jira tasks across 5 sprints. Guides and admin accounts went to the academy.</p>
       <p>
         <a href="https://racketup.co.nz">racketup.co.nz</a> ·
         <a href="https://github.com/Mission-Ready/racket-up-app">github.com/Mission-Ready/racket-up-app</a>
